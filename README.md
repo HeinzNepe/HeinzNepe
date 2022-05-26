@@ -4,8 +4,8 @@
 
 - 👀 I'm interested in Linux, Networks, Websites and API's
 - 🌐 I'm currently working on web and API projects for school
-- 💻 I want to work on Networks and techs like API's
-- 🌱 I’m currently learning DotNet API's with JWT and JavaScript
+- 💻 I want to work on Networks and tech like API's
+- 🌱 I’m currently learning Angular and Authentication API's
 
 ### 📞 Get in touch
 
