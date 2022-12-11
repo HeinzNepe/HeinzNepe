@@ -12,7 +12,7 @@
 ---
 
 - 📧 Mail: henriknepstad@gmail.com
-- 🎮 Discord: Cheff#8668
+- 🎮 Discord: HeinzNepe#8668
 
 ---
 
