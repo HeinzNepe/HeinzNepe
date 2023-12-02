@@ -3,9 +3,9 @@
 ---
 
 - 👀 I'm interested in Linux, Networks, Websites and API's
-- 🌐 I'm currently working on web and API projects for school
-- 💻 I want to work on Networks and tech like API's
-- 🌱 I’m currently learning Angular and Authentication API's
+- 🌐 I'm currently not working on a lot. Trying to learn some stuff here and there :-)
+- 💻 I want to work on Networks, cybersecurity and infrastructure
+- 🌱 I’m currently learning Powershell
 
 ### 📞 Get in touch
 
